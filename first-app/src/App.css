@@ -359,6 +359,201 @@ hr{
 
   background: linear-gradient(360deg, rgba(75, 113, 255, 0) -0.13%, rgba(107, 137, 248, 0.4) 131.12%);
 }
+.line2{
+  position: absolute;
+  width: 1441px;
+  height: 304.51px;
+  left: 0px;
+  top: 303px;
+
+  border: 3px solid #5F82FF;
+}
+.ell1{
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 100px;
+  top: 597px;
+
+  background: #FFFFFF;
+  border: 2px solid #5E80FE;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 15px rgba(82, 131, 255, 0.25);
+}
+.l1{
+  position: absolute;
+  width: 190px;
+  height: 0px;
+  left: 107px;
+  top: 447px;
+
+  border: 1px solid #D8E0F7;
+  transform: rotate(90deg);
+}
+.rect{
+  position: absolute;
+  width: 1440px;
+  height: 145px;
+  left: 0px;
+  top: 650px;
+
+  background: #FFFFFF;
+}
+.block-2{
+  position: absolute;
+  width: 1440px;
+  height: 776px;
+  left: 0px;
+  top: 797px;
+
+  background: #F5F8FF;
+}
+.p1{
+  position: absolute;
+  width: 149px;
+  height: 12px;
+  left: 271px;
+  top: 208px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  color: #3D4F9F;
+}
+.p2{
+  position: absolute;
+  width: 350px;
+  height: 45px;
+  left: 271px;
+  top: 230px;
+
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  text-align: left;
+  /* identical to box height */
+
+  color: #3D4F9F;
+}
+.and{
+  font-weight: lighter;
+}
+.p3{
+  position: absolute;
+  width: 413px;
+  height: 151px;
+  left: 271px;
+  top: 319px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 29px;
+  letter-spacing: 0.03em;
+  text-align: left;
+
+  color: #8D96BD;
+}
+.left_b{
+  position: absolute;
+  width: 130.08px;
+  height: 43px;
+  left: 271px;
+  top: 1314px;
+
+  background: #4C85FF;
+  box-shadow: 0px 5px 15px rgba(188, 199, 255, 0.75);
+  border-radius: 2px;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+}
+
+.right_b{
+  position: absolute;
+  width: 130.08px;
+  height: 43px;
+  left: 399.92px;
+  top: 1314px;
+
+  border: 1px solid #D1D1E4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ADB4D2;
+}
+.phone{
+  position: absolute;
+  width: 107px;
+  height: 214px;
+  left: 739px;
+  top: 1067px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 20px 40px rgba(53, 60, 115, 0.15);
+  border-radius: 15px;
+}
+.screen{
+  position: absolute;
+  width: 539.95px;
+  height: 336.62px;
+  left: 819.02px;
+  top: 967px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 20px 40px rgba(53, 60, 115, 0.15);
+}
+
+.j{
+  position: absolute;
+  width: 606px;
+  height: 19.8px;
+  left: 786px;
+  top: 1296.2px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 50px 50px rgba(107, 119, 224, 0.05), 0px 50px 150px 
+  rgba(104, 113, 198, 0.05), 0px 50px 200px rgba(53, 60, 115, 0.05), 
+  0px 20px 40px rgba(159, 162, 195, 0.15);
+  }
+
+.phone2{
+  position: absolute;
+  width: 148px;
+  height: 280px;
+  left: 1182px;
+  top: 1123px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 20px 40px rgba(53, 60, 115, 0.15);
+  border-radius: 15px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
