@@ -89,7 +89,7 @@ button.rectangle1{
     position: absolute;
     width: 82px;
     height: 17px;
-    left: 1226px;
+    left: 1126px;
     top: 32px;
 
     font-family: Quicksand;
@@ -108,7 +108,7 @@ button.rectangle1{
     position: absolute;
     width: 113px;
     height: 43px;
-    left: 1210px;
+    left: 1110px;
     top: 19px;
 
     background: #D2E1FF;
@@ -117,7 +117,7 @@ button.rectangle1{
 
 .line{
   position: absolute;
-  width: 1440px;
+  width: 1340px;
   height: 0px;
   left: 0px;
   top: 81px;
@@ -146,7 +146,7 @@ hr{
     position: absolute;
     width: 100px;
     height: 12px;
-    left: 673px;
+    left: 573px;
     top: 92px;
 
     font-family: Roboto;
@@ -165,7 +165,7 @@ hr{
     position: absolute;
     width: 650px;
     height: 60px;
-    left: 400px;
+    left: 300px;
     top: 80px;
 
     font-family: Quicksand;
@@ -182,7 +182,7 @@ hr{
     position: absolute;
     width: 502px;
     height: 78px;
-    left: 469px;
+    left: 369px;
     top: 190px;
     
     font-family: Roboto;
@@ -199,7 +199,7 @@ hr{
   position: absolute;
   width: 31px;
   height: 16px;
-  left: 1208px;
+  left: 1108px;
   top: 37px;
 
   background: #FFFFFF;
@@ -244,7 +244,7 @@ hr{
   position: absolute;
   width: 45px;
   height: 23px;
-  left: 1257px;
+  left: 1157px;
   top: 86px;
 
   background: #FFFFFF;
@@ -255,7 +255,7 @@ hr{
   position: absolute;
   width: 77.81px;
   height: 39px;
-  left: 1224px;
+  left: 1124px;
   top: 53px;
 
   background: #FFFFFF;
@@ -412,7 +412,7 @@ hr{
   position: absolute;
   width: 149px;
   height: 12px;
-  left: 271px;
+  left: 71px;
   top: 208px;
 
   font-family: Roboto;
@@ -430,7 +430,7 @@ hr{
   position: absolute;
   width: 350px;
   height: 45px;
-  left: 271px;
+  left: 71px;
   top: 230px;
 
   font-family: Quicksand;
@@ -450,7 +450,7 @@ hr{
   position: absolute;
   width: 413px;
   height: 151px;
-  left: 271px;
+  left: 71px;
   top: 319px;
 
   font-family: Roboto;
@@ -467,9 +467,10 @@ hr{
   position: absolute;
   width: 130.08px;
   height: 43px;
-  left: 271px;
+  left: 71px;
   top: 1314px;
 
+  border: 1px solid #D1D1E4;
   background: #4C85FF;
   box-shadow: 0px 5px 15px rgba(188, 199, 255, 0.75);
   border-radius: 2px;
@@ -489,7 +490,7 @@ hr{
   position: absolute;
   width: 130.08px;
   height: 43px;
-  left: 399.92px;
+  left: 199.92px;
   top: 1314px;
 
   border: 1px solid #D1D1E4;
@@ -512,7 +513,7 @@ hr{
   position: absolute;
   width: 107px;
   height: 214px;
-  left: 739px;
+  left: 539px;
   top: 1067px;
 
   background: #FFFFFF;
@@ -523,36 +524,468 @@ hr{
   position: absolute;
   width: 539.95px;
   height: 336.62px;
-  left: 819.02px;
+  left:619.02px;
   top: 967px;
 
   background: #FFFFFF;
   box-shadow: 0px 20px 40px rgba(53, 60, 115, 0.15);
+  border-radius: 15px;
 }
 
 .j{
   position: absolute;
   width: 606px;
   height: 19.8px;
-  left: 786px;
+  left: 586px;
   top: 1296.2px;
 
   background: #FFFFFF;
   box-shadow: 0px 50px 50px rgba(107, 119, 224, 0.05), 0px 50px 150px 
   rgba(104, 113, 198, 0.05), 0px 50px 200px rgba(53, 60, 115, 0.05), 
   0px 20px 40px rgba(159, 162, 195, 0.15);
+  border-radius: 15px;
   }
 
 .phone2{
   position: absolute;
   width: 148px;
   height: 280px;
-  left: 1182px;
+  left: 982px;
   top: 1123px;
 
   background: #FFFFFF;
   box-shadow: 0px 20px 40px rgba(53, 60, 115, 0.15);
   border-radius: 15px;
+}
+
+.photo1{
+  position: absolute;
+  width: 8.71px;
+  height: 17px;
+  left: 804px;
+  top: 32px;
+}
+
+.photo2{
+  position: absolute;
+  width: 14.7px;
+  height: 11.79px;
+  left: 850.29px;
+  top: 34.95px;
+}
+.photo3{
+  position: absolute;
+  width: 16.51px;
+  height: 13.78px;
+  left: 899.52px;
+  top: 34.21px;
+}
+.photo4{
+  position: absolute;
+  width: 16.51px;
+  height: 12.86px;
+  left: 949.49px;
+  top: 34.50px;
+}
+
+img.n{
+  position: absolute;
+  left: 15.69px;
+  top: 12.38px;
+}
+img.ph1{
+  position: absolute;
+  left: 0.01px;
+  top: 11.02px;
+}
+img.photo8{
+  position: absolute;
+width: 116.59px;
+height: 29px;
+left: 176px;
+top: 58px;
+}
+.photo9{
+  position: absolute;
+width: 116.58px;
+height: 24.29px;
+left: 369.08px;
+top: 60.65px;
+}
+.photo10{
+  position: absolute;
+width: 116.58px;
+height: 22.37px;
+left: 562.17px;
+top: 61.54px;
+}
+.photo11{
+  position: absolute;
+width: 116.57px;
+height: 24.07px;
+left: 754.34px;
+top: 60.65px;
+}
+.photo12{
+  position: absolute;
+width: 116.58px;
+height: 28.94px;
+left: 947.42px;
+top: 58px;
+}
+
+.about{
+  position: absolute;
+  width: 56px;
+  height: 12px;
+  left: 592px;
+  top: 1716px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  
+  color: #3D4F9F;
+}
+.read{
+  position: absolute;
+  width: 230px;
+  height: 30px;
+  left: 505px;
+  top: 1728px;
+
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #3D4F9F;
+}
+#cl1{
+  position: absolute;
+  width: 36.75px;
+  height: 18.78px;
+  left: 62px;
+  top: 2209px;
+  
+  background: #EEF3FF;
+  box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+#cl2{
+  position: absolute;
+width: 46.39px;
+height: 23.78px;
+left: 125px;
+top: 1718.22px;
+
+background: #E1EAFF;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+#cl3{
+  position: absolute;
+width: 21.05px;
+height: 10.89px;
+left: 158.39px;
+top: 1716px;
+
+background: #EEF3FF;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+#cl4{
+  position: absolute;
+width: 44px;
+height: 22px;
+left: 26px;
+top: 2225px;
+
+background: #D5E0FB;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+#cl5{
+  position: absolute;
+width: 81px;
+height: 41px;
+left: 55px;
+top: 2218px;
+
+background: #E1EAFF;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+.l{
+  position: absolute;
+  left: 80px;
+  top: 17px;
+}
+#cl6{
+  position: absolute;
+width: 31px;
+height: 16px;
+left: 109px;
+top: 2231px;
+
+background: #ECF1FC;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+#cl7{
+  position: absolute;
+width: 31px;
+height: 16px;
+left: 1156px;
+top: 1778px;
+
+background: #ECF1FC;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+#cl8{
+  position: absolute;
+width: 77.81px;
+height: 39px;
+left: 1073.97px;
+top: 1794px;
+
+background: #D5E0FB;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+#cl9{
+  position: absolute;
+width: 51.16px;
+height: 26px;
+left: 1125.84px;
+top: 1814px;
+
+background: #E1EAFF;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+#cl10{
+  position: absolute;
+width: 36.75px;
+height: 18.78px;
+left: 1061px;
+top: 1797.61px;
+
+background: #EEF3FF;
+box-shadow: 0px 5px 45px rgba(151, 175, 227, 0.1);
+clip-path: ellipse(50% 100% at 50% 100%);
+}
+
+.overview{
+  position: absolute;
+width: 140px;
+height: 254px;
+left: 240px;
+top: 1900px;
+}
+#over{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 25px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #4074F8;
+}
+#view{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 19px;
+  text-align: center;
+
+  color: #ADB3CB;
+}
+.files{
+  position: absolute;
+  width: 140px;
+  height: 254px;
+  left: 447px;
+  top: 1900px;
+}
+
+#file1{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 25px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #4074F8;
+}
+#file2{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 19px;
+  text-align: center;
+
+  color: #ADB3CB;
+}
+.meeting{
+  position: absolute;
+width: 140px;
+height: 254px;
+left: 654px;
+top: 1900px;
+}
+#meet{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+
+color: #4074F8;
+}
+#chats{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 19px;
+text-align: center;
+
+color: #ADB3CB;
+
+}
+.save{
+  position: absolute;
+width: 140px;
+height: 254px;
+left: 861px;
+top: 1900px;
+}
+#sav{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+
+color: #4074F8;
+}
+#events{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 19px;
+text-align: center;
+
+color: #ADB3CB;
+}
+.buttons2{
+  position: absolute;
+width: 337px;
+height: 43px;
+left: 552px;
+top: 2246px;
+}
+.left_button{
+  position: absolute;
+  width: 113px;
+  height: 43px;
+  left: -100px;
+  top: -150px;
+  background: #FFD7D7;
+  border-radius: 2px;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  border: 1px solid #D1D1E4;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #D43F3F;
+}
+.right_button{
+  position: absolute;
+  width: 113px;
+  height: 43px;
+  top: -150px;
+  left: 132px;
+
+  background: #D2E1FF;
+  border: 1px solid #D1D1E4;
+  border-radius: 2px;
+
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #3A79FF;
+}
+#or{
+  position: absolute;
+width: 16px;
+height: 20px;
+left: 60px;
+top: -150px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+color: #ADB3CB;
+}
+#circles{
+  position: absolute;
+  width: 69px;
+  height: 69px;
+  top: -60px;
+  left: 35px;
+  border-radius: 50px;
+  background: #F1F5FF;
+  z-index: 0;
+}
+#vectors{
+  position: absolute;
+  width: 14px;
+  height: 17px;
+  left: 57px;
+  top: -35px;
+  z-index: 1;
+  border: 2.5px solid #4074F8;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
