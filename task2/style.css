@@ -1,69 +1,84 @@
-header.container{
+body{
+    margin: 0 auto;
+}
+*,
+*:before,
+*:after{
+    box-sizing: border-box;
+}
+/* Container */
+.container {
+    /* Auto Layout */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
     padding: 16px 64px;
-    
+
     position: static;
-    width: 1200px;
+    width:100%;
+    max-width: 1280px;
     height: 76px;
     left: 0px;
+    right: 0px;
     top: 0px;
-    
-    /* Dawn/White */
-    background: #FFFFFF;
-    /* Dawn/Border bottom */
-    box-shadow: inset 0px -1px 0px #E1E3E5;
-    
+    margin: 0 auto;
+
     /* Inside Auto Layout */
     flex: none;
     order: 0;
     flex-grow: 0;
     margin: 0px 0px;
 }
-.header-left__logo{
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
+/* Header */
+header{
+    font-family: Assistant;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+    
+    letter-spacing: 0.02em;
+    color: #121212;
 }
-.header-left-categories{
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 0px;
-    
-    position: static;
-    width: 215px;
-    height: 37px;
-    left: 141px;
-    top: 3.5px;
-    
-    
-    /* Inside Auto Layout */
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-    margin: 0px 51px;
-}
-.header-left-categories__link{
+
+.header-left__link{
+    display: inline-block;
+    vertical-align: top;
+    border: 0;
+    background-color: #FFFFFF;
+
     display: flex;
     flex-direction: row;
     align-items: center;
     padding: 8px 0px;
-    
+
     position: static;
     width: 57px;
     height: 37px;
     left: 0px;
     top: 0px;
-    
-    
+
     /* Inside Auto Layout */
     flex: none;
     order: 0;
     flex-grow: 0;
     margin: 0px 16px;
+}
+.icon{
+    margin: 0px 6px;
+}
+.content{
+    font-family: Assistant;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 52px;
+    line-height: 68px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    background: url("/images/background.png") center no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
 }
